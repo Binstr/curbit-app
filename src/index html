@@ -1,0 +1,65 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Binstr | Trash Day, Handled</title>
+  <style>
+    body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 0; }
+    header { background-color: #0A2E50; color: #fff; padding: 40px 20px; text-align: center; }
+    h1 { font-size: 2em; margin-bottom: 10px; }
+    h2 { color: #0A2E50; margin-top: 40px; }
+    section { padding: 20px; max-width: 800px; margin: auto; }
+    .cta-buttons a { display: inline-block; margin: 10px; padding: 10px 20px; background: #0A2E50; color: white; text-decoration: none; border-radius: 4px; }
+    ul { padding-left: 20px; }
+    footer { background-color: #f4f4f4; text-align: center; padding: 20px; font-size: 0.9em; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Trash Day, Handled</h1>
+    <p>Binstr: Bin to Curb and Back Again. Automated and Integrated for HOAs.</p>
+    <div class="cta-buttons">
+      <a href="#residents">I’m a Homeowner</a>
+      <a href="#hoa">I Manage an HOA</a>
+      <a href="#provider">Join Our Crew</a>
+    </div>
+  </header>  <section id="how">
+    <h2>How It Works</h2>
+    <ul>
+      <li>Opt in with your HOA or enroll online</li>
+      <li>We move your bins to the curb & back</li>
+      <li>GPS tracking, notifications, and issue logging</li>
+      <li>One-time pickups also available</li>
+    </ul>
+  </section>  <section id="residents">
+    <h2>For Homeowners</h2>
+    <p>No more dragging bins or risking fines. Binstr gives you:</p>
+    <ul>
+      <li>Hands-free curbside bin service</li>
+      <li>Service continues when you travel</li>
+      <li>Secure, GPS-tracked crew</li>
+      <li>Overflow or missed pickup? Request a one-off visit</li>
+    </ul>
+  </section>  <section id="hoa">
+    <h2>For HOAs & Property Managers</h2>
+    <p>Make trash day a revenue opportunity, not a headache:</p>
+    <ul>
+      <li>Buildium-integrated service & billing</li>
+      <li>Residents opt in — no admin lift</li>
+      <li>HOA earns $2–$6 per home/month</li>
+      <li>Encrypted gate codes, tracked crew, real-time logs</li>
+    </ul>
+  </section>  <section id="provider">
+    <h2>Become a Binstr Provider</h2>
+    <p>Earn by helping your community stay clean & compliant:</p>
+    <ul>
+      <li>Flexible morning/evening routes</li>
+      <li>Per-job pay, GPS-tracked routes</li>
+      <li>Notes, gate access, and app dashboard</li>
+    </ul>
+  </section>  <footer>
+    <p>Contact: Kirsten Shahan | 480-652-5126 | <a href="mailto:kirsten@turnstarclean.com">kirsten@turnstarclean.com</a></p>
+    <p><a href="https://turnstarclean.com/binstr">turnstarclean.com/binstr</a></p>
+  </footer>
+</body>
+</html>
